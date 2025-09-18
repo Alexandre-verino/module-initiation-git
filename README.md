@@ -1,1 +1,1 @@
-Bonjour
+"Malgr‚ le temps qui passe, j'espŠre  Pourquoi je gagne et puis je perds ?  Comme un enfant … qui l'on raconte une histoire  Je dois y croire  Malgr‚ les hauts, les bas, je sais  M'accorder un dernier essai  Je vois la vie me faire un signe  J'ai lutt‚ pour en ˆtre digne" 
