@@ -1,6 +1,6 @@
 <img width="300" height="168" alt="Github" src="https://github.com/user-attachments/assets/d4dd8b3c-e259-40ad-acff-b47b4de4abca" />
 
-# Ce *README* sert **uniquement** à tester des fonctionnalités GitHub
+# Ce *README* sert 'uniquement' à tester des fonctionnalités GitHub
 
 vous pouver y retrouver les principales fonctionnalités de GitHub sur ce [site](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
