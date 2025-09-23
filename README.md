@@ -1,4 +1,5 @@
-<img width="300" height="168" alt="Github" src="https://github.com/user-attachments/assets/d4dd8b3c-e259-40ad-acff-b47b4de4abca" />
+<img width="300" height="168" alt="Github" src="https://github.com/user-attachments/assets/d4dd8b3c-e259-40ad-acff-b47b4de4abca" /> <img width="450" height="450" alt="qrcode_github com" src="https://github.com/user-attachments/assets/4795374b-faf7-462f-8a53-77e4a9992ee0" />
+
 
 # Ce *README* sert `uniquement` à tester des fonctionnalités GitHub
 
