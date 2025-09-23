@@ -2,7 +2,7 @@
 
 "Ce *README* sert **uniquement** à tester des fonctionnalités"
 
-vous pouver y retrouver des fonctionnalités GitHub sur ce [site](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+vous pouver y retrouver les principales fonctionnalités de GitHub sur ce [site](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 "Peut-être que celui-ci va fonctionner you come around, yeah You ease my mind, you make everything feel fine Worried 'bout those comments I'm way too numb, yeah, it's way too dumb, yeah I get those goosebumps every time, I need the Heimlich" 
 
